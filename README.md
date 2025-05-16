@@ -15,7 +15,7 @@ A clean, responsive **Deel-inspired landing page** built with **React.js** and *
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View  
-![Desktop Preview]
+
 ![Screenshot_3](https://github.com/user-attachments/assets/9115f7a6-82f9-46a7-9691-f26b287c25d2)
 ![Screenshot_4](https://github.com/user-attachments/assets/1936b253-1962-4de9-a985-b611429e6cbb)
 ![Screenshot_5](https://github.com/user-attachments/assets/70c78e77-ebc9-4e71-8846-58102e810efc)
@@ -23,7 +23,11 @@ A clean, responsive **Deel-inspired landing page** built with **React.js** and *
 
 
 ### 📱 Mobile View  
-![Mobile Preview]
+![IMG_1947](https://github.com/user-attachments/assets/27506101-3542-4caf-bfb5-661a2d0611f0)
+![IMG_1948](https://github.com/user-attachments/assets/d109a485-a739-4a0d-81f5-280e52c544f8)
+![IMG_1949](https://github.com/user-attachments/assets/fd3c8f4f-b732-4e0e-bdc6-1b56df2f04e6)
+
+
 
 
 ---
